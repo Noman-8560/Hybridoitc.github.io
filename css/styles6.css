@@ -1,0 +1,182 @@
+
+.had1
+{
+text-align: center;
+color: white;
+margin-top: -10px;
+position: relative;
+}
+.had2
+{
+  color:white;
+
+}
+.had3
+{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+  position:relative;
+}
+.had4
+{
+  color: white;
+  text-align: center;
+  margin-left: 24%;
+  margin-right: 24%;
+  font-size:30px;
+  font-family: sans-serif;
+  position: relative;
+}
+.had5
+{
+  text-align: center;
+  color: white;
+}
+.had6
+{
+  color: white;
+  font-size:20px;
+  font-family: sans-serif;
+  position: relative;
+  text-align: center;
+}
+.had7
+{
+  color: white;
+  font-size:15px;
+  font-family: sans-serif;
+  position: relative;
+  text-align: center;
+}
+.had8
+{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+  position:relative;
+}
+.had9
+{
+  color: white;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-size:17px;
+  font-family: sans-serif;
+  position: relative;
+}
+#id1:hover
+{
+  color: #bbbbbb;
+}
+#id2:hover
+{
+  color: blue;
+}
+
+.vv
+{
+    width:auto; min-width: 100%;
+    width:auto;min-height: 100%;
+    background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment:fixed;
+    position:fixed;
+}
+.div1
+{
+  position: fixed;
+  margin-top: -8%;
+}
+#features
+{
+  padding: 7% 15%;
+}
+.features
+{
+  margin-top: -13%;
+}
+.feature
+{
+  margin-top: -12%;
+}
+.feature-box
+{
+ text-align: center;
+ padding: 5%;
+ color: white;
+}
+.vl
+{
+  position: fixed;
+  position: relative;
+ border-left: 3px solid white;
+ height: 50px;
+ margin-left: 50%;
+}
+#v2
+{
+  position: fixed;
+  position: relative;
+ border-left: 3px solid white;
+ height: 200px;
+ /* margin-left: 50%; */
+}
+.tab
+{
+  margin-left: 40%;
+  margin-right:20%;
+}
+#tab1
+{
+  margin-left: 25%;
+  margin-right:25%;
+}
+hr
+{
+  width: 55%;
+  background: white;
+  /* border-radius: 5px; */
+  border:none;
+  position: relative;
+}
+
+.hr1
+{
+  width: 13%;
+  background: white;
+  /* border-radius: 5px; */
+  border:none;
+  position: relative;
+}
+
+.gry
+{
+clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+opacity: 0.4;
+margin-left: 3rem;
+}
+
+#map
+{
+  position: relative;
+}
+
+.up
+{
+clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+position: relative;
+margin-top: -60px;
+transform: rotate(25deg);
+}
+.ul1
+{
+  margin-left: 10%;
+  font-size: 20px;
+  color: white;
+  font-family: sans-serif;
+  position:relative;
+}

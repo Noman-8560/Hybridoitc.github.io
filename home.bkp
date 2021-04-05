@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Home Page</title>
+
+      <link rel="stylesheet" href="css/styles1.css">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;900&family=Ubuntu:wght@300;400;700&display=swap" rel="stylesheet">
+
+      <!-- Font Awesome -->
+
+      <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<style media="screen">
+
+  .nav-item {
+    padding: 0 26px;
+    font-size:20px;
+  }
+
+</style>
+
+  </head>
+
+  <body>
+
+    <video autoplay muted loop class="vv">
+            <source src="https://video.wixstatic.com/video/11062b_cb0c4d13153f4008920bb26beda8de0f/720p/mp4/file.mp4" type="video/mp4">
+    </video>
+
+    <section id="title">
+
+    <div class="container-fluid" style="padding:3% 13%;">
+<div class="had1" id="id1">
+<h5>OBSERVE | IMAGINE | THINK | CREAT</h5>
+</div>
+
+<nav class="navbar navbar-expand-lg navbar-dark" style="padding-bottom:4.5rem";>
+
+
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" >
+      <ul class="had2 navbar-nav  col-lg-4">
+        <li class="nav-item">
+          <a id="id2" class="nav-link" href="">HOME</a>
+        </li>
+        <li class="nav-item">
+          <a id="id2" class="nav-link"   href="work.html">WORK</a>
+        </li>
+        <li class="nav-item">
+          <a id="id2" class="nav-link"  href="about.html">ABOUT</a>
+        </li>
+        <li class="nav-item">
+          <img src="images/hybrid.png" height="130px" style="margin-top:-20px;" alt="">
+          <h4 class="had9">Hybrid</h4>
+        </li>
+        <li class="nav-item">
+          <a id="id2" class="nav-link"  href="feed.html">FEED</a>
+        </li>
+        <li class="nav-item">
+          <a id="id2" class="nav-link"  href="research.html">RESEARCH</a>
+        </li>
+        <li class="nav-item">
+          <a id="id2" class="nav-link"  href="contact.html">CONTACT</a>
+        </li>
+      </ul>
+        </nav>
+    </div>
+
+<div class="div1">
+  <img src="images/twit.jpg" alt="">
+  <br>
+  <img src="images/lik.jpg" alt="">
+  <br>
+  <img src="images/face.jpg" alt="">
+</div>
+
+ <p class="had3">Next Level Plan</p>
+ <p class="had4">HYBRIDOITC is a team of young developers and graphic designers. We help build brands. We deal with graphics, software and website development for clients who need a little help to create something truly special. We do it with love in Pakistan for clients. No just that we entertain clients from all around the world and we can do it for you too. Start a project with us now by our PROJECT INITIATOR.</p>
+
+
+
+ <ul class="hybridoitc">
+     <li class="hybridoitc-cell">
+         <img class="hybridoitc-cell_img"   src="images/misbah.jpg">
+         <div class="hybridoitc-cell_title" onclick="onclicked()" type="button">Web Design</div>
+     </li>
+     <li class="hybridoitc-cell">
+         <img class="hybridoitc-cell_img" src="images/misbah.jpg">
+         <div class="hybridoitc-cell_title" onclick="onclicked()" type="button">Graphic Design</div>
+     </li>
+     <li class="hybridoitc-cell">
+         <img class="hybridoitc-cell_img" src="images/misbah.jpg">
+         <div class="hybridoitc-cell_title" onclick="onclicked()" type="button">Illustration</div>
+     </li>
+     <li class="hybridoitc-cell">
+         <img class="hybridoitc-cell_img" src="images/misbah.jpg">
+         <div class="hybridoitc-cell_title" onclick="onclicked()" type="button">Motion Graphics</div>
+     </li>
+
+     <li class="hybridoitc-cell hybridoitc_Hidden">
+     </li>
+ </ul>
+
+
+
+<p class="had5">WHY US...?</p>
+<p class="had6">Standing away from the crowd in Virtual World and getting to the top of your competitors online is not easy nowadays. To achieve the tough goal we have our strategies of working with our passionate and focused Creative Team capable of providing beautifully crafted and results-focused solution for your business, no matter how immense your end goal is.</p>
+
+
+<p class="had7">Current Stats</p>
+<p class="had8">Our current working stats with our work flow on <br> GITHUB …!</p>
+<p class="img1"><img  src="https://ghchart.rshah.org/0652DD/HYBRIDOITC" alt=""></p>
+<br>
+<p class="had12">HAPPY CLIENTS</p>
+<p class="had13">General reviews from some of our previous clients...</p>
+
+<section id="features">
+
+<div class="row">
+<div class="feature-box col-lg-4">
+    <img src="images/horse.png" height="130px" class="icn1" alt="">
+    <br>
+  <h4>STALLIONGRACE</h4>
+  <p>"Thank you so much sir for your efforts..StallionGrace meant nothing without The Team Hybridoitc❤❤"</p>
+</div>
+
+<div class="feature-box col-lg-4">
+<img src="images/OVA.png" height="130px" class="icn1" alt="">
+<br>
+  <h4>OVA8®️ International ltd</h4>
+    <p>"HYBRIDOITC is a group of really talented youth. We highly recommend there service. Professional approach to there skills."
+
+</p>
+  <p></p>
+</div>
+
+<div class="feature-box col-lg-4">
+    <img src="images/ARG.png" height="130px" class="icn1" alt="">
+    <br>
+  <h4>Arganie</h4>
+  <p>We were thrilled with the work HYBRIDOITC team have done. Them communication the comfort and frankness with clients they provide is awesome"</p>
+
+</div>
+</div>
+</section>
+
+<br><br><br><br>
+
+
+
+<section id="features" class="features">
+<div class="row">
+<div class="feature-box col-lg-4">
+  <hr style="height:3px;">
+    <img src="images/proj.png" height="130px" class="icn1" alt="">
+    <br>
+  <h3>Project Initiator</h3>
+  <p>Interested in working with us? Launch our proposal planner to get started.</p>
+  <button  type="button" class="btn btn-outline-primary">Launch</button>
+</div>
+
+<div class="feature-box col-lg-4">
+  <hr style="height:3px;">
+<img src="images/phone.png" height="130px" class="icn1" alt="">
+<br><br>
+  <h3>Connect With Us</h3>
+    <p>+923475554231</p>
+    <img src="images/twit.jpg" alt="">
+    <img src="images/lik.jpg" alt="">
+    <img src="images/face.jpg" alt="">
+</div>
+
+<div class="feature-box col-lg-4">
+  <hr style="height:3px;">
+    <img src="images/news.png" height="130px" class="icn1" alt="">
+    <br>
+  <h3>Newsletters</h3>
+  <p>Enter your email address below to receive occasional updates.</p>
+
+  <input type="text"  class="btn btn-outline-primary" placeholder="Enter Your Email Here" name="" value="">
+  <button  type="button" class="btn btn-outline-primary">Join</button>
+
+</div>
+</div>
+</section>
+<br>
+<hr style="height:3px;">
+<br><br>
+<table class="tab" cellspacing="30px">
+  <tr>
+    <td><p class="had10">FAQ</p></td>
+    <td><p class="vl"></p></td>
+    <td><p class="had11">Copyright © 2020 Built by HYBRIDOITC. All rights
+  reserved. Inspired by BBB.</p></td>
+  </tr>
+</table>
+
+
+<script type="text/javascript">
+  function onclicked()
+  {
+    document.location.href="misbah.html";
+  }
+</script>
+
+  </body>
+
+</html>

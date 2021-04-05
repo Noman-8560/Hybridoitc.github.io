@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+
+.had1
+{
+text-align: center;
+color: white;
+margin-top: -10px;
+position: relative;
+}
+.had2
+{
+  color:white;
+
+}
+.had3
+{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+.had4
+{
+  color: white;
+  text-align: center;
+  margin-left: 26%;
+  margin-right: 26%;
+  position: relative;
+}
+.had5
+{
+  margin-top: 20%;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+.had6
+{
+  color: white;
+  text-align: center;
+  margin-left: 26%;
+  margin-right: 26%;
+  position: relative;
+}
+.had7
+{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+.had8
+{
+  color: white;
+  text-align: center;
+  margin-left: 26%;
+  margin-right: 26%;
+  position: relative;
+}
+.had9
+{
+  text-align: center;
+  color: white;
+  position: relative;
+}
+.had10
+{
+  color: white;
+  font-size:20px;
+  font-family: sans-serif;
+  position: relative;
+}
+.had11
+{
+  color: white;
+  font-size:15px;
+  font-family: sans-serif;
+  position: relative;
+  text-align: center;
+}
+.had12
+{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+.had13
+{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  margin-left: 26%;
+  margin-right: 26%;
+  position: relative;
+}
+#id1:hover
+{
+  color: #bbbbbb;
+}
+#id2:hover
+{
+  color: blue;
+}
+.vv
+{
+  width:auto; min-width: 100%;
+  width:auto;min-height: 100%;
+   background-attachment:fixed;
+   position: fixed;
+    background-size:cover;
+}
+.div1
+{
+  position: fixed;
+  margin-top: -8%;
+}
+#features
+{
+  padding: 7% 15%;
+}
+.feature-box
+{
+ text-align: center;
+ padding: 5%;
+ color: white;
+}
+.features
+{
+  margin-top: -19%;
+}
+.vl
+{
+  position: fixed;
+  position: relative;
+ border-left: 3px solid white;
+ height: 50px;
+ margin-left: 50%;
+}
+.tab
+{
+  margin-left: 40%;
+  margin-right:20%;
+}
+hr
+{
+  width: 55%;
+  background: white;
+  /* border-radius: 5px; */
+  border:none;
+  position: relative;
+}
+.img1
+{
+  position: relative;
+  text-align: center;
+}
+.icn
+{
+  position: relative;
+ mix-blend-mode: multiply;
+}
+.hybridoitc
+{
+  display: -webkit-box;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0;
+  transform: translateY(80px);
+}
+
+.hybridoitc-cell
+{
+  -webkit-box-flex: 0;
+  flex: 0 1 250px;
+  max-width: 250px;
+  height: 137.5px;
+  margin: 65.4px 12.5px 25px;
+  position: relative;
+  padding: 0.5em;
+  text-align: center;
+  z-index: 1;
+  box-shadow: 0px 0px 15px 0 rgba(0,0,0,0.1);
+}
+.hybridoitc-cell_img
+{
+  object-fit: cover;
+  object-position: center;
+  filter: grayscale(100%);
+}
+.hybridoitc-cell_title
+{
+  height: 100%;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  word-break: break-word;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.75em;
+  transition: opacity 350ms;
+}
+.hybridoitc-cell_title > small
+{
+  font-weight: 300;
+  margin-top: 0.25em;
+}
+.hybridoitc-cell::before,
+.hybridoitc-cell::after
+{
+  content: '';
+}
+.hybridoitc-cell::before,
+.hybridoitc-cell::after,
+.hybridoitc-cell_img
+{
+  top: -50%;
+  left: 0;
+  width: 100%;
+  height: 200%;
+  display: block;
+  position: absolute;
+  -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  z-index: -1;
+}
+.hybridoitc-cell::before
+{
+  background: #fff;
+  transform: scale(1.055);
+}
+.hybridoitc-cell::after
+{
+  background: #111111;
+  opacity: 0.7;
+  transition: opacity 350ms;
+  -webkit-transition: opacity 350ms;
+}
+.hybridoitc-cell:hover
+.hybridoitc-cell_title
+{
+  opacity: 0;
+}
+.hybridoitc-cell:hover
+.hybridoitc-cell_img
+{
+  filter: grayscale(0%);
+}
+.hybridoitc-cell:hover::before
+{
+  background: #fc5130;
+}
+.hybridoitc-cell:hover::after
+{
+  opacity: 0;
+}
+.hybridoitc_Hidden
+{
+  display: none;
+  opacity: 0;
+  width: 250px;
+  margin: 0 12.5px;
+}
+
+/****** Responsive *******/
+
+@media (max-width: 550px)
+{
+  .hybridoitc-cell
+  {
+    margin: 81.25px 25px;
+  }
+}

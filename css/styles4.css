@@ -1,0 +1,140 @@
+
+.had1
+{
+text-align: center;
+color: white;
+margin-top: -10px;
+position: relative;
+}
+.had2
+{
+  color:white;
+
+}
+.had3
+{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+  position:relative;
+}
+.had4
+{
+  color: white;
+  text-align: center;
+  margin-left: 24%;
+  margin-right: 24%;
+  font-size:30px;
+  font-family: sans-serif;
+  position: relative;
+}
+.had5
+{
+  text-align: center;
+  color: white;
+}
+.had6
+{
+  color: white;
+  font-size:20px;
+  font-family: sans-serif;
+  position: relative;
+}
+.had7
+{
+  color: white;
+  font-size:15px;
+  font-family: sans-serif;
+  position: relative;
+  text-align: center;
+}
+.had8
+{
+  font-size: 45px;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+  position:relative;
+}
+.had9
+{
+  color: white;
+  text-align: center;
+  margin-left: 24%;
+  margin-right: 24%;
+  font-size:25px;
+  font-family: sans-serif;
+  position: relative;
+}
+#id1:hover
+{
+  color: #bbbbbb;
+}
+#id2:hover
+{
+  color: blue;
+}
+
+.vv
+{
+    width:auto; min-width: 100%;
+    width:auto;min-height: 100%;
+    background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment:fixed;
+    position:fixed;
+}
+.div1
+{
+  position: fixed;
+  margin-top: -8%;
+}
+#features
+{
+  padding: 7% 15%;
+}
+.features
+{
+  margin-top: -10%;
+}
+.feature-box
+{
+ text-align: center;
+ padding: 5%;
+ color: white;
+}
+.vl
+{
+  position: fixed;
+  position: relative;
+ border-left: 3px solid white;
+ height: 50px;
+ margin-left: 50%;
+}
+.tab
+{
+  margin-left: 40%;
+  margin-right:20%;
+}
+hr
+{
+  width: 55%;
+  background: white;
+  /* border-radius: 5px; */
+  border:none;
+  /* position: relative; */
+}
+/* .bs-example{
+  margin: 20px;
+} */
+.modal-dialog iframe{
+    margin: 0 auto;
+    display: block;
+}
+.bs-example
+{
+  margin-left: 10%;
+  margin: 10px;
+  position: relative;
+}
